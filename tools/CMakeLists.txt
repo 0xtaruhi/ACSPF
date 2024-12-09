@@ -1,0 +1,2 @@
+add_subdirectory(vecfit)
+add_subdirectory(evaltool)

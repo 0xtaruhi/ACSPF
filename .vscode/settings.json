@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "argparse",
+        "VECFIT"
+    ],
+    "cmake.configureArgs": [
+        "-DONEAPI_ROOT=/home/eda240709/intel/oneapi",
+        "-DEigen3_DIR=/home/eda240709/libs/share/eigen3/cmake",
+        "-DCMAKE_PREFIX_PATH=/home/eda240709/libs/lib/cmake",
+        "-DJEMALLOC_ROOT=/home/eda240709/libs",
+        "-DUSE_MKL=ON",
+        "-DUSE_INTELCC=ON",
+    ]
+}
