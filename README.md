@@ -1,5 +1,9 @@
 # ACSPF
 
+![License](https://img.shields.io/badge/License-LGPL_v2.1-blue)
+![Language](https://img.shields.io/badge/Language-C++-blue)
+![Platform](https://img.shields.io/badge/Platform-Linux-green)
+
 Analog Cat S-parameter Fitting. This is a tool for fitting S-parameters of a circuit to a rational function, 
 which is the result of the 2024 EDA Challenge Contest.
 
